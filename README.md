@@ -2,9 +2,11 @@
 Trabajo #07 - Bucles en Python
 
 #Integrantes:
+
 Salazar Guevara Anderson Smith
+
 Palacios Ulloque Pierina Yasmin
 
-Ing.Electronica
+Escuela: Ing.Electronica
 
 Ciclo I
